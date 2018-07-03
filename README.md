@@ -42,8 +42,8 @@ conda install -c conda-forge gdal
 ```
 
 ### Exemples for our Image 
-
-
+![Example 1](https://github.com/AnnieEm/TA/blob/master/exemplo1.PNG)
+![Example 2](https://github.com/AnnieEm/TA/blob/master/exemplo2.PNG)
 
 ## Built With
 * [Anaconda](https://anaconda.org/)
